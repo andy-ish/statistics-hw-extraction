@@ -1,0 +1,8 @@
+# Local source textbook and generated homework are not skill code.
+*.pdf
+output/
+tmp/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

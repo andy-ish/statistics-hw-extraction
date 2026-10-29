@@ -1,0 +1,3 @@
+interface:
+  display_name: "统计教材习题截图"
+  short_description: "按章节与题号提取教材原图，拼接跨页内容，并合并有依赖关系的题目"

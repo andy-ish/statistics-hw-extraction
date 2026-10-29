@@ -1,0 +1,74 @@
+{
+  "source_pdf": "../../../../AP Statistics.pdf",
+  "source_identity": {
+    "size_bytes": 338825075,
+    "page_count": 5023,
+    "sha256": "81fc4b1e6c9cc7aa26b8a8960a56f98be4a5c7814ba95583e42378df51ee99d4"
+  },
+  "section": "SECTION 4C Exercises",
+  "source_catalog": {
+    "4C:15": {
+      "kind": "exercise",
+      "section": "4C",
+      "number": "15"
+    },
+    "figure:4.2": {
+      "kind": "figure",
+      "number": "4.2",
+      "print_page": "333"
+    }
+  },
+  "requested_exercises": [
+    "4C:15"
+  ],
+  "dependencies": {
+    "4C:15": [
+      "figure:4.2"
+    ]
+  },
+  "scale": 8,
+  "groups": [
+    {
+      "filename": "SECTION_4C_15_with_figure_4_2.png",
+      "exercises": [
+        "4C:15"
+      ],
+      "context_exercises": [
+        "figure:4.2"
+      ],
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "parts": [
+        {
+          "exercise": "figure:4.2",
+          "role": "context",
+          "supports": [
+            "4C:15"
+          ],
+          "reason": "The target explicitly points to Figure 4.2 for the dice sample space. Include the figure and caption, excluding definitions and surrounding prose.",
+          "page": 1006,
+          "box": [
+            75.5,
+            72,
+            536.5,
+            255
+          ],
+          "gap_after_points": 12
+        },
+        {
+          "exercise": "4C:15",
+          "page": 1068,
+          "box": [
+            75.5,
+            629,
+            536.5,
+            690
+          ]
+        }
+      ]
+    }
+  ]
+}

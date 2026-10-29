@@ -1,0 +1,68 @@
+{
+  "source_pdf": "../../../../AP Statistics.pdf",
+  "source_identity": {
+    "size_bytes": 338825075,
+    "page_count": 5023,
+    "sha256": "81fc4b1e6c9cc7aa26b8a8960a56f98be4a5c7814ba95583e42378df51ee99d4"
+  },
+  "section": "SECTION 4D Exercises",
+  "source_catalog": {
+    "4D:5": {
+      "kind": "exercise",
+      "section": "4D",
+      "number": "5"
+    },
+    "4D:3": {
+      "kind": "exercise",
+      "section": "4D",
+      "number": "3"
+    }
+  },
+  "requested_exercises": [
+    "4D:5"
+  ],
+  "dependencies": {
+    "4D:5": [
+      "4D:3"
+    ]
+  },
+  "scale": 8,
+  "groups": [
+    {
+      "filename": "SECTION_4D_05_with_context.png",
+      "exercises": [
+        "4D:5"
+      ],
+      "context_exercises": [
+        "4D:3"
+      ],
+      "parts": [
+        {
+          "exercise": "4D:3",
+          "role": "context",
+          "supports": [
+            "4D:5"
+          ],
+          "reason": "Only the ferry background, random variable, and probability table are needed. Exclude Exercise 3 parts (a) and (b).",
+          "page": 1125,
+          "box": [
+            75.5,
+            534,
+            536.5,
+            667
+          ]
+        },
+        {
+          "exercise": "4D:5",
+          "page": 1126,
+          "box": [
+            75.5,
+            452,
+            536.5,
+            494
+          ]
+        }
+      ]
+    }
+  ]
+}

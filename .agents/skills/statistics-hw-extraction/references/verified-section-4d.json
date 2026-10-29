@@ -1,0 +1,80 @@
+{
+  "source_pdf": "../../../../AP Statistics.pdf",
+  "source_identity": {
+    "size_bytes": 338825075,
+    "page_count": 5023,
+    "sha256": "81fc4b1e6c9cc7aa26b8a8960a56f98be4a5c7814ba95583e42378df51ee99d4"
+  },
+  "section": "SECTION 4D Exercises",
+  "requested_exercises": [
+    "1",
+    "3",
+    "5"
+  ],
+  "dependencies": {
+    "5": [
+      "3"
+    ]
+  },
+  "notes": "Exercise 3 continues on the next PDF page. Exercise 5 explicitly refers to Exercise 3. Exclude Exercise 4 and its photo.",
+  "scale": 8,
+  "groups": [
+    {
+      "filename": "SECTION_4D_01.png",
+      "exercises": [
+        "1"
+      ],
+      "parts": [
+        {
+          "exercise": "1",
+          "page": 1125,
+          "box": [
+            75.5,
+            177,
+            536.5,
+            357
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "SECTION_4D_03_05.png",
+      "exercises": [
+        "3",
+        "5"
+      ],
+      "parts": [
+        {
+          "exercise": "3",
+          "page": 1125,
+          "box": [
+            75.5,
+            534,
+            536.5,
+            706
+          ]
+        },
+        {
+          "exercise": "3",
+          "page": 1126,
+          "box": [
+            75.5,
+            72,
+            536.5,
+            111
+          ]
+        },
+        {
+          "exercise": "5",
+          "page": 1126,
+          "box": [
+            75.5,
+            452,
+            536.5,
+            494
+          ]
+        }
+      ]
+    }
+  ]
+}
