@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# WorkBuddy's working directory
+.workbuddy/
